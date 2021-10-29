@@ -1,0 +1,4 @@
+install router - npm install react-router-dom
+need to import in 
+App.js (import {BrowserRouter as Router,Switch,Route} from 'react-router-dom')
+Nav.js (import {Link} from 'react-router-dom')
